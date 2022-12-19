@@ -1,6 +1,6 @@
 
 #### NYANSH - C shell 
-## Assignment 3 (Operating Systems and Networks, Monsoon 2022)
+## Assignment 2 & 3 (Operating Systems and Networks, Monsoon 2022)
 
 A user defined interactive shell program made using C with system calls.
 
