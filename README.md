@@ -2,6 +2,8 @@
 #### NYANSH - C shell 
 ## Assignment 3 (Operating Systems and Networks, Monsoon 2022)
 
+A user defined interactive shell program made using C with system calls.
+
 #### FILES
 - nyansh.c [main code,handles signals]
 - inputs.c [for taking inputs and tokenising]
@@ -12,9 +14,7 @@
 - pinfo.c [for pinfo command]
 - cmds.c [for running commands and contains cd command code]
 - h.txt [file that contains history]
-- makefile [self explanatory]
 - headers_and_definitions.h [contains headers and function definitions]
-- a.out [will be made with "make" command]
 - auto.c [for autocompletion]
 - jobs.c [for jobs sig fg bg]
 - pipe.c [handles pipes]
